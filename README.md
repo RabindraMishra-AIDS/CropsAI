@@ -2,6 +2,7 @@
 # CropAI
 
 ### Using Gemini Pro for creating this GenAI Application.
+Hosted on:https://cropsai.onrender.com/ 
 
 Watch the demonstration below:
 
